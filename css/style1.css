@@ -1,0 +1,15 @@
+btn{
+    display: block;
+    margin: 50px auto;
+    width: fit-content;
+    border: 1px solid darkred;
+    padding: 14px 50px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #fff;
+    transition: background 0.5s;
+}
+.btn:hover{
+    background: rgb(17, 127, 103);
+    transform: scale(1.1);
+}
